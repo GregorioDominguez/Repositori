@@ -8,4 +8,4 @@
   * _HTML_
   
 ##2. Creación de un _**repository**_ de _**GibHub**_
-  Se han subido dichos documentos al _**repository**_ de _**GibHub**_ así como se ha editado el fichero _README.md_ utilizando el lenguaje _Markdown_, el cual he aprendido [gracias a este tutorial](http://www.markdowntutorial.com)
+  Se han subido dichos documentos al _**repository**_ de _**GibHub**_, así como se ha editado el fichero _README.md_ utilizando el lenguaje _Markdown_, el cual he aprendido [gracias a este tutorial](http://www.markdowntutorial.com).
